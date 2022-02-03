@@ -42,7 +42,7 @@ Os projetos do quarto semestre possuem seus repositórios individuais:
 
 ---
 ## Contato
-<p>A melhor maneira de entrar em contato comigo é através do e-mail: <b>jfvf.franciscon@outlook.com</b> ou do telefone: <b>(14) 99606-4881</b>.</p>
+<p>A melhor maneira de entrar em contato comigo é através do e-mail <b>jfvf.franciscon@outlook.com</b> ou do telefone: <b>(14) 99606-4881</b>.</p>
 
 ---
 
@@ -52,4 +52,5 @@ Os projetos do quarto semestre possuem seus repositórios individuais:
 - <a href="https://github.com/jaoferr/jaoferr.github.io/blob/main/assets/not-img/cv_JoaoFernando.pdf" target="_blank">Currículo completo</a>
 <br>
 <br>
+
 ---
