@@ -53,12 +53,4 @@ Os projetos do quarto semestre possuem seus repositórios individuais:
 <br>
 <br>
 
-<<<<<<< Updated upstream
 ---
-=======
-<<<<<<< HEAD
----
-=======
----
->>>>>>> 8ed9bb64a6396b6ba786840833db60a62ebe69ee
->>>>>>> Stashed changes
