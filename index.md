@@ -26,9 +26,13 @@ layout: default
     - Criação e manutenção de relátórios e <i>dashboards</i>.
 <br><br>
 - Visual Basic for Applications (VBA)
-    - Criação de scripts para automação de tarefas administrativas;
+    - Criação de scripts para automação de tarefas administrativas.
 <br><br>
-- Entre outros
+- Git/Github
+    - Versionamento de código em projetos.
+<br><br>
+- Docker
+    - Construção e gerenciamento de containers com <i>dockerfiles</i>.
 
 ---
 
