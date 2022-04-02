@@ -4,7 +4,7 @@ layout: default
 
 # Olá!
 ## Uma breve introdução
-<p>Eu sou o <b>João Fernando</b>, 21 anos, ciêntista de dados e programador em treinamento, e auxiliar de escritório em uma empresa do setor alimentício.</p>
+<p>Eu sou o <b>João Fernando</b>, 21 anos, ciêntista de dados e programador em constante aprendizado, e auxiliar de escritório em uma empresa do setor alimentício.</p>
 <p>Sou do interior de São Paulo e atualmente frequento o quinto semestre do curso de <b>Ciência de Dados na FATEC Ourinhos</b>.</p>
 <p>Também sei ler e escrever em <b>inglês</b> e me viro bem em conversações.</p>
 <br>
