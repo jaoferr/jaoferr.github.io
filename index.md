@@ -41,7 +41,7 @@ layout: default
 <p> Essas e outras atividades podem ser encontradas no <a href="https://github.com/jaoferr/fatec_ourinhos_cd" target="_blank">repositório dedicado ao curso</a>.</p>
 
 Os projetos do quarto semestre possuem seus repositórios individuais:
-- <a href="https://github.com/jaoferr/PJ3G2" target="_blank"> PJ3G2: GRACE - Sistema de recomendação de currículos </a>
+- <a href="https://github.com/jaoferr/grace" target="_blank"> GRACE - Sistema de recomendação de currículos </a>
 - <a href="https://github.com/jaoferr/PJ3G3" target="_blank"> PJ3G3: Machine Learning applied to Sports - Web scraping/Web Crawler/Search Engine </a>
 
 ---
