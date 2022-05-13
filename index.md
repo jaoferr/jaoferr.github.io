@@ -4,11 +4,13 @@ layout: default
 
 # Olá!
 ## Uma breve introdução
-<p>Eu sou o **João Fernando**, 21 anos, ciêntista de dados e programador em constante aprendizado, e auxiliar de escritório em uma empresa do setor alimentício.</p>
-<p>Sou do interior de São Paulo e atualmente frequento o quinto semestre do curso de **Ciência de Dados na FATEC Ourinhos**.</p>
-<p>Também sei ler e escrever em **inglês** e me viro bem em conversações.</p>
-<br>
-<p>Fora da vida profissional ou acadêmica, sou um fã de longa data de **Bad Religion** e um fã (um tanto quanto mais recente) de **Fórmula 1**.</p>
+Eu sou o **João Fernando**, 21 anos, ciêntista de dados e programador em constante aprendizado, e auxiliar de escritório em uma empresa do setor alimentício.
+
+Sou do interior de São Paulo e atualmente frequento o quinto semestre do curso de **Ciência de Dados na FATEC Ourinhos**.
+
+Também sei ler e escrever em **inglês** e me viro bem em conversações.
+
+Fora da vida profissional ou acadêmica, sou um fã de longa data de **Bad Religion** e um fã de **Fórmula 1**
 
 ---
 ## Formação acadêmica
