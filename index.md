@@ -54,7 +54,7 @@ Fora da vida profissional ou acadêmica, sou um fã de longa data de **Bad Relig
 - **Git/Github**
     - Versionamento de código em projetos.
 
-- Docker & Docker compose
+- **Docker & Docker compose**
     - Construção e gerenciamento de containers com *dockerfiles*;
     - Orquestração de diversos containers para uma mesma aplicação com *docker-compose*.
 
@@ -72,6 +72,7 @@ Alguns projetos possuem seus repositórios individuais:
     - <a href="https://github.com/jaoferr/task-01-nba-matches-winner-prediction" target="_blank"> Task 01 - NBA Matches Winner Prediction</a>
     - <a href="https://github.com/jaoferr/task-02-car-price-prediction" target="_blank"> Task 02 - Car Price Prediction</a>
 
+Também participei como *host* do <a href="https://www.kaggle.com/competitions/1-desafio-cd-fatec-ourinhos"> 1º Desafio CD Fatec Ourinhos </a>, uma competição de aprendizado de máquina sediada no *Kaggle*.
 
 
 
